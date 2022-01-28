@@ -1,4 +1,3 @@
-</br> 
 <a href="https://twitter.com/maptheclouds">
   <img align="center" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
 </a>
@@ -7,7 +6,6 @@
 </a>
 
 </br> 
-</br>
 </br>
 
 Hi! I'm Cristina, a freelance data visualization developer, working from Cluj-Napoca, România.
