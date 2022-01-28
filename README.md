@@ -7,7 +7,7 @@ Besides creating visualizations for the web, I love to perform GIS analysis on o
 
 Feel free to check out examples of my projects on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/)
 
-One of my ongoing projects is [DatavizRomania](https://datavizromania.org/). I have started it to record my journey of learning data visualization and share it with the data visualization community in România.
+One of my ongoing projects is [DatavizRomania](https://datavizromania.org/playground/logo/). I have started it to record my journey of learning data visualization and share it with the data visualization community in România.
 
 If you're interested in my projects & experiments, please feel free to [contact me](https://maptheclouds.com/about.html) to find out how we might work together.
 
