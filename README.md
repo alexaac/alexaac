@@ -23,7 +23,7 @@ If you're interested in my projects & experiments, please feel free to [contact 
 </br>
 
 <div>
-  <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/"><img width="180px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/data/earth_4326_qgis_h_lg.png"></a> 
+  <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/"><img width="170px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/data/earth_4326_qgis_h_lg.png"></a> 
   <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/points/"><img width="150px" height="100px" src="https://mps-ph.s3.us-east-2.amazonaws.com/ma/img/8c438151-b196-4040-a1dc-5a58ba49e6c6.png"></a> 
   <a target="_blank" href="https://alexaac.github.io/presidentials2019/"><img width="160px" height="100px" src="https://mps-ph.s3.us-east-2.amazonaws.com/ma/img/e1a43454-4d00-470f-b389-f1ff4af92303.png"></a> 
   <a target="_blank" href="https://maptheclouds.com/covid-19-ro/cases-counties/en/"><img width="160px" height="100px" src="https://maptheclouds.com/covid-19-ro/cases-counties/img/demo.gif"></a> 
