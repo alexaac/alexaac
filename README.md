@@ -8,6 +8,7 @@
 
 </br> 
 </br>
+</br>
 
 Hi! I'm Cristina, a freelance data visualization developer, working from Cluj-Napoca, România.
 
