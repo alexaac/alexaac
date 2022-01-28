@@ -29,7 +29,7 @@ If you're interested in my projects & experiments, please feel free to [contact 
 <div>
   <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/"><img width="200px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/data/earth_4326_qgis_h_lg.png"></a> 
   <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/choropleth/"><img width="170px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/choropleth/img/demo.gif"></a> 
-  <a target="_blank" href="https://maptheclouds.com/playground/dataviz/blender-earth/"><img width="170px" height="100px" src="https://mps-ph.s3.us-east-2.amazonaws.com/ma/img/c067e31f-24d0-481c-b4d3-c5304bed13ab.png"></a> 
+  <a target="_blank" href="https://alexaac.github.io/presidentials2019/"><img width="170px" height="100px" src="https://mps-ph.s3.us-east-2.amazonaws.com/ma/img/e1a43454-4d00-470f-b389-f1ff4af92303.png"></a> 
   <a target="_blank" href="https://maptheclouds.com/covid-19-ro/cases-counties/en/"><img width="170px" height="100px" src="https://maptheclouds.com/covid-19-ro/cases-counties/img/demo.gif"></a> 
   <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/3d/"><img width="170px" height="100px" src="https://mps-ph.s3.us-east-2.amazonaws.com/ma/img/693d7e9e-4881-4858-97a4-0f69c0648573.png"></a> 
 </div>
