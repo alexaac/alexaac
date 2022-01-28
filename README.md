@@ -10,10 +10,10 @@
 
 Hi! I'm Cristina, a freelance data visualization developer, working from Cluj-Napoca, România.
 
-I have worked as a cartographer for 3 years, then as a full-stack developer/web mapping for almost 10 years.
+I have worked as a full-stack developer/web mapping for almost 10 years, and as a cartographer for 3 years, and three years ago I've started focusing on data visualization.
 
-I am focused mostly on 3D & interactive maps, data visualizations, animations and storytelling.
-Besides creating visualizations for the web, I love to perform GIS analysis on open-source data, and 3D terrain analysis on LiDAR derived images.
+I design and develop 3D & interactive maps, data visualizations, animations and storytelling.
+Besides creating visualizations for the web, I perform GIS analysis on open-source data, and 3D terrain analysis on LiDAR derived images.
 
 Feel free to check out samples of my work on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/)
 
