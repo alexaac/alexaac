@@ -15,7 +15,7 @@ I have worked as a cartographer for 3 years, then as a full-stack developer/web 
 I am focused mostly on 3D & interactive maps, data visualizations, animations and storytelling.
 Besides creating visualizations for the web, I love to perform GIS analysis on open-source data, and 3D terrain analysis on LiDAR derived images.
 
-Feel free to check out examples of my projects on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/)
+Feel free to check out samples of my work on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/)
 
 One of my ongoing projects is [DatavizRomania](https://datavizromania.org/playground/logo/). I have started it to record my journey of learning data visualization and share it with the data visualization community in România.
 
