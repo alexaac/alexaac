@@ -7,10 +7,30 @@ Besides creating visualizations for the web, I love to perform GIS analysis on o
 
 Also, I create web design systems, handle web development & integration for my projects, and manage web hosting for them.
 
-Feel free to check out examples of my projects on my personal webiste, [maptheclouds.com](https://maptheclouds.com)
+Feel free to check out examples of my projects on my personal webiste, [maptheclouds.com](https://maptheclouds.com/playground/)
 
 One of my ongoing projects is [DatavizRomania](https://datavizromania.org/). I have started it to record my journey of learning data visualization and share it with the data visualization community in România.
 
 If you're interested in my projects & experiments, please feel free to [contact me](https://maptheclouds.com/about.html) to find out how we might work together.
 
- 
+</br> 
+<a href="https://twitter.com/maptheclouds">
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alexa-a-cristina/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-linkedin.svg" />
+</a>
+
+</br> 
+</br> 
+</br>
+</br>
+
+<div>
+  <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/"><img width="200px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/heatmap/data/earth_4326_qgis_h_lg.png"></a> 
+  <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/hexagons/"><img width="170px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/hexagons/img/demo.gif"></a> 
+  <a target="_blank" href="https://maptheclouds.com/covid-19-ro/cases-counties/en/"><img width="170px" height="100px" src="https://maptheclouds.com/covid-19-ro/cases-counties/img/demo.gif"></a> 
+  <a target="_blank" href="https://maptheclouds.com/playground/30-day-map-challenge/population/"><img width="170px" height="100px" src="https://maptheclouds.com/playground/30-day-map-challenge/population/img/demo.gif"></a> 
+  <a target="_blank" href="https://alexaac.github.io/presidentials2019/"><img width="170px" height="100px" src="https://alexaac.github.io/presidentials2019/img/demo.gif"></a> 
+  <a target="_blank" href="https://maptheclouds.com/playground/dataviz/blender-earth/"><img width="170px" height="100px" src="https://maptheclouds.com/playground/dataviz/blender-earth/img/demo.gif"></a> 
+</div>
