@@ -13,10 +13,10 @@ If you're interested in my projects & experiments, please feel free to [contact 
 
 </br> 
 <a href="https://twitter.com/maptheclouds">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
+  <img align="center" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexa-a-cristina/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-linkedin.svg" />
+  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-linkedin.svg" />
 </a>
 
 </br> 
