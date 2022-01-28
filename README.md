@@ -15,7 +15,7 @@ I have worked as a full-stack developer/web mapping for almost 10 years, and as 
 I design and develop 3D & interactive maps, data visualizations, animations and storytelling.
 Besides creating visualizations for the web, I perform GIS analysis on open-source data, and 3D terrain analysis on LiDAR derived images.
 
-Feel free to check out samples of my work on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/)
+Feel free to check out samples of my work on my personal website, [maptheclouds.com](https://maptheclouds.com/playground/).
 
 If you're interested in my projects & experiments, please feel free to [contact me](https://maptheclouds.com/about.html) to find out how we might work together.
 
