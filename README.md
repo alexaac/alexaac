@@ -1,3 +1,14 @@
+</br> 
+<a href="https://twitter.com/maptheclouds">
+  <img align="center" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alexa-a-cristina/">
+  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-linkedin.svg" />
+</a>
+
+</br> 
+</br>
+
 Hi! I'm Cristina, a freelance data visualization developer, working from Cluj-Napoca, România.
 
 I have worked as a cartographer for 3 years, then as a full-stack developer/web mapping for almost 10 years.
@@ -10,14 +21,6 @@ Feel free to check out examples of my projects on my personal website, [mapthecl
 One of my ongoing projects is [DatavizRomania](https://datavizromania.org/playground/logo/). I have started it to record my journey of learning data visualization and share it with the data visualization community in România.
 
 If you're interested in my projects & experiments, please feel free to [contact me](https://maptheclouds.com/about.html) to find out how we might work together.
-
-</br> 
-<a href="https://twitter.com/maptheclouds">
-  <img align="center" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexa-a-cristina/">
-  <img align="center" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-linkedin.svg" />
-</a>
 
 </br> 
 </br>
