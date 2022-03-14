@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
 <a href="https://twitter.com/maptheclouds">
   <img align="center" alt="Twitter" width="20px" src="https://raw.githubusercontent.com/alexaac/alexaac/main/img/icons8-twitter.svg" />
 </a>
